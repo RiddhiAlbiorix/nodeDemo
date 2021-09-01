@@ -1,2 +1,2 @@
-# nodeDemo
-node demo with authentication API
+# node-js-jwt-auth-mongodb
+# node-js-jwt-auth-mongodb
